@@ -1,5 +1,5 @@
 # 终于传上来了
-![201f6ba5793d285fa5ccd70e89c8d4a3](https://github.com/user-attachments/assets/d5e8c341-c80c-4f64-9f4e-1db1c4e83a11)
+<img src="https://github.com/user-attachments/assets/d5e8c341-c80c-4f64-9f4e-1db1c4e83a11" width="30%" />
 
 # 基于虚幻引擎5的2.5D游戏demo
 
