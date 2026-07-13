@@ -1,0 +1,22 @@
+# 构建产物
+Binaries/
+Intermediate/
+Saved/
+Build/
+DerivedDataCache/
+
+# Content资产 (版权内容，不在GitHub分发)
+Content/
+Done/
+
+# VS工程文件
+*.sln
+*.suo
+*.user
+*.userprefs
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# 打包产物
+*.zip
